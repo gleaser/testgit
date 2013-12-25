@@ -1,1 +1,5 @@
 File 1 in the master branch.
+
+Stashed changes.
+
+Amended changes.
